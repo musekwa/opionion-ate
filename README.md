@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# Opinion-ate
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An app for tracking reviews of dishes at different restaurants.
+
+Production: <https://opinion-ate-react-tdd-app.netlify.app>
+
+Dependencies are locked with `package-lock.json` file, so please use `npm` instead of `yarn` to install them.
+
+This project was bootstrapped with
+[Create React App] (https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
